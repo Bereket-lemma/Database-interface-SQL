@@ -4,14 +4,15 @@ This project is a database interface application that allows users to perform Ad
 
 The project was a collaborative effort involving four partners. My primary responsibilities were writing server-side code, creating endpoints, implementing data filtering options, and developing the sorting functionality. I also provided assistance with the frontend, working alongside my teammates to ensure a cohesive and visually appealing design.
 
-Technologies Used:
+**Technologies Used:**
+
 The following programming languages and tools were used in the development of this application:
 
-React
-HTML
-Express.js
-CSS
-MySQL
+* React
+* HTML
+* Express.js
+* CSS
+* MySQL
 
 **How to Use**
 
