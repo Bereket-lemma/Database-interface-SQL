@@ -9,11 +9,12 @@ The project was a collaborative effort involving four partners. My primary respo
 
 The following programming languages and tools were used in the development of this application:
 
-React
+React.Js
 
 HTML
 
 Express.js
+
 CSS
 
 MySQL
